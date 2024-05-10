@@ -1,0 +1,9 @@
+{
+    "name": "Stay22 - Close Stale PRs",
+    "description": "Stay22 workflow to close old long running PRs",
+    "iconName": "octicon clock",
+    "categories": [
+        "code-review",
+        "utilities"
+    ]
+}
