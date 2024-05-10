@@ -1,5 +1,8 @@
 name: Close Stale PRs
 
+on:
+  workflow_call:
+
 jobs:
   close-issues:
     runs-on: ubuntu-latest
